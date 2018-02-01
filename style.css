@@ -54,11 +54,11 @@
     background-color: #ebebeb;
     z-index:3; 
     width:80%;
-    height:20px;
+    height:40px;
     float: left;
     left:60px;  
     position:relative;
-    padding:20px;
+    padding:5px;
     bottom:60px;
     color:#777;
     font-weight:bolder;
@@ -68,12 +68,12 @@
     background-color: #ebebeb;
     z-index:3; 
     width:80%;
-    height:20px;
+    height:40px;
     float: left;
     left:60px;
     bottom:55px; 
     position:relative;
-    padding:20px;
+    padding:8px;
     color:#777;
   }
 
